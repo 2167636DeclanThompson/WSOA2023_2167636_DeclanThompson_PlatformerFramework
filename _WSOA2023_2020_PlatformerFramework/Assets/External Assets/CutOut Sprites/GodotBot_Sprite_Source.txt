@@ -1,0 +1,4 @@
+The image that the Godot Bot PSB was created from can be found at:
+https://docs.godotengine.org/uk/latest/tutorials/animation/2d_skeletons.html
+
+It's origonal name is gBot_pieces.png
